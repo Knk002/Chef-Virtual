@@ -7,6 +7,9 @@ h4{
     color: rgb(27, 27, 27);
 }
 
+h3{
+    font-family: truculenta;
+}
 p{
     color: rgb(27, 27, 27);
 }
@@ -22,6 +25,7 @@ button{
     background-color: rgb(211, 223, 43);
     overflow: hidden;
     box-shadow: 15px 15px 10px  rgb(27, 27, 27);
+    margin: 10px;
     
 }
 
